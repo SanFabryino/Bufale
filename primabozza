@@ -1,17 +1,30 @@
 <html>
 <head>
 <body>
+<style>
+body {
+    background-color: gray
+	
+}
+</style>
 <h1>
 <font face="reckless" color="blue">Benvenuti nel Filtro Delle Bufale </font>
-<font size="3" color="gray">In questo sito potrete vedere quali notizie della ultima (e non)ora sono veritiere e quali no. </font>
-<font size="3" color="gray">Buona permanenza! </font>
+<font size="3" color="white">In questo sito potrete vedere quali notizie della ultima (e non)ora sono veritiere e quali no. </font>
 </h1>
 <h2>
-<font face="reckless" color="black">In primo piano:</font>
+<font size="3" color="white">Buona permanenza! </font>
 </h2>
 <h3>
-
+<font face="reckless" color="black">In primo piano:</font>
 </h3>
+<h4>
+<font face="reckless" color="white">Avvertenza!</font>
+<font face="reckless" color="white"><i>Verifica Sempre l'URL(Universal Resource Locator)del sito da cui stai visionando la notizia, controlla se non e' una storipiatura del sito originale e famoso(es. Il Fatto Quotidaino)</i></font>
+</h4>
+<h5>
+<font face="reckless" color="white"><b>Bufale:</b>
+<rel link
+</h5>
 </body>
 </head>
 </html>
