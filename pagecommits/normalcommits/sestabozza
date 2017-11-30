@@ -1,0 +1,88 @@
+<!--ORIGINAL SITE MADE BY Fabrizio Piperno; LICENSED BY UNLICENSE.ORG-->
+<!--
+ __________      ______                 
+___  ____/_____ ___  /_____________  __
+__  /_   _  __ `/_  __ \_  ___/_  / / /
+_  __/   / /_/ /_  /_/ /  /   _  /_/ / 
+/_/      \__,_/ /_.___//_/    _\__, /  
+                              /____/
+							  GOTTA GO FAST! 41/10 XD
+-->
+<html>
+<head>
+<body>
+<style>
+
+body {
+    background-color: #cccccc
+	
+}
+</style>
+<style type="text/css">
+@font-face {
+  font-family: 'HelveticaNeueUltraLight';
+  src: url('HelveticaNeueUltraLight.eot'); /* IE 5-8 */ 
+  src: local('HelveticaNeueUltraLight.otf'),             /* sneakily trick IE */
+        url('HelveticaNeueUltraLight.woff') format('woff'),    /* FF 3.6, Chrome 5, IE9 */
+        url('HelveticaNeueUltraLight.ttf') format('truetype'), /* Opera, Safari */
+        url('HelveticaNeueUltraLight.svg#font') format('svg'); /* iOS */
+}
+
+}
+p {
+font-size: 3em
+}
+h4,h3,h5,h2 {
+font-size: 2em
+}
+a {
+font-size:2em
+}
+p,h2,h3,h4,h5,h6,a {
+font-family: 'HelveticaNeueUltraLight', serif;
+}
+</style>
+<p align="center" class="customfont"><font size="14">Benvenuti Nel Filtro Anti-Bufale</p></font>
+</style>
+<p align="center" class="customfont"><font size="14">Buona permanenza!</p></font>
+<marquee direction="left"><p class="customfont"><font size="14">Ehy tu!, si proprio tu! Benvenuto in questo filtro!#NoFakeNews</marquee></p></font>
+<h2>
+<font face="HelveticaNeueUltraLight" color="black">In primo piano:</font>
+</h2>
+<h3>
+<font face="HelveticaNeueUltraLight" color="black">Avvertenza!</font>
+<font face="HelveticaNeueUltraLight" color="black"><i>Verifica Sempre l'URL     (Universal Resource Locator)    del sito da cui stai visionando la notizia, controlla se non e' una storipiatura del sito originale  (es. Il Fatto Quotidaino)</i></font>
+</h3>
+<h4>
+<font face="HelveticaNeueUltraLight" color="black"><b><u><font size="14"><p align="center">Bufale Sociali e Riguardanti L'istruzione:</u></b></font></p>
+</h4>
+<ol>
+<li><a href="https://stampa-lazio.com/2017/10/21/riccardo-scamarcio-sono-stato-molestato-sessualmente-da-asia-argento/"><font size="5"><b>Notizia Falsa de: "Stampa-Lazio"</a></li></font></b>
+<li><a href="http://www.bufale.net/home/bufala-precisazioni-boldrini-qualche-migrante-stupra-non-lo-si-puo-condannare-perche-non-conosce-le-nostre-leggi/"><font size="5"><b>Notizia Falsa Elencata su: Bufale.net</a></li></font></b>
+<li><a href="https://www.facebook.com/Dibbarisponde/"><font size="5"><b>Fonte Inesauribile di Bufale!</li></a></font></b>
+</ol>
+</head>
+<div>
+<h5>
+<font face="HelveticaNeueUltraLight" color="black"><b><font size="14"><p align="center"><u>Bufale riguardanti la medicina:</u></b></p>
+</h5>
+</div>
+<ol>
+<div>
+<li><a href="https://autismovaccini.org/2015/05/31/regno-unito-migliaia-di-ragazze-danneggiate-dalla-vaccinazione-contro-il-papilloma-virus-hpv/"><font size="5"><b>Notizia Falsa De:"AutismoVaccini"</li></a></font></b>
+<li><a href="http://www.tuttoinweb.com/vaccino-anti-meningite-con-ossido-di-ferro-lotti-ritirati-famiglie-fanno-causa-guardate/"><font size="5"><b>Notizia Falsa De:"TuttoInWeb"</b></li></a></font>
+<li><a href="http://lastella.altervista.org/vuoi-donare-i-tuoi-organi-ecco-quello-che-devi-sapere-e-che-non-ti-dicono/"><font size="5"><b>Attenzione: La Seguente notizia è puro terrorismo mediatico; NON credete in questa signora</b></li></a></font>
+</ol>
+</div>
+<h6>
+<div>
+<font face="HelveticaNeueUltraLight" color="black"><b><u><font size ="14"><p align="center">Bufale Riguardanti Le Scienze Tecnologiche:</u></b></font></p>
+<ol>
+<li><a href="http://www.ilmeglio-delweb.it/brutte-notizie-possessori-televisori-ora-oltre-al-canone-rai-si-paghera-44600-poter-vedere-la-tv/"><font size="5">Notizia Falsa De:"IlMeglioDelWeb"</li></a></font>
+<li><a href="http://giornale24h.com/la-polizia-avvisa-arrivera-tutti-un-avviso-della-procura-sarete-colpiti-anche-voi-per-colpa-di-un-hacker/"><font size="5">Notizia Falsa De:"Giornale24H","condividi con tutti i tuoi amici..."vecchio allarmismo""</li></a></font>
+<li><a href="http://benessere-italiano.it/metodo45.html?voluumdata=BASE64dmlkLi4wMDAwMDAwMy1hNTdhLTQ4NDAtODAwMC0wMDAwMDAwMDAwMDBfX3ZwaWQuLmNiZDUzMDAwLTgwODktMTFlNi04YWVjLTFlMzM1NWIwZTFmMl9fY2FpZC4uNGFkMjY0ODMtY2VmMy00YTRjLTk3ZDUtZjNmZDdmZWVmYjlkX19ydC4uUl9fbGlkLi4zZTM1MjhhYy0wOTkwLTQ4ZGUtYWE4YS1iN2FlNjgzYjZkNmRfX29pZDEuLmY0NzhjZGM0LWI1N2ItNGYzYi1iNjA4LTQ3NGNmYWZhY2EzZF9fdmFyMi4uTGF2b3JvIGRvbWVzdGljb19fdmFyMy4uQWQgNjhfX3ZhcjUuLi1fX3ZhcjYuLi1fX3JkLi5iZW5lc3NlcmUtaXRhbGlhbm9cLlxpdF9fYWlkLi5fX2FiLi5fX3NpZC4u&%3Feta=45-55&interesse=Lavoro+domestico&adname=Ad+68&adsetname&sesso=-&postid=-"><font size="5">Notizia Falsa De:"Benessere-ItalianoIT" </li></a></font>
+</ol>
+</h6>
+</div>
+</body>
+</html>
