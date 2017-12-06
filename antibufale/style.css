@@ -1,0 +1,77 @@
+/*
+per creare tipo una variabile in HTML basta definire id come il nome della var. es: <div id="esempio">
+
+conseguentemente scrivere in CSS
+
+#esempio{
+
+    funzione-esempio: 10
+
+}
+invece, per i paragrafi(p) basta definire la classe es.<p class="esempio">
+
+in CSS:
+.esempio{
+
+    funzione-esempio: 10 
+
+}
+
+
+*/
+body {
+    background-color: #cccccc
+	
+}
+@font-face {
+  font-family: 'HelveticaNeueUltraLight';
+  src: url('HelveticaNeueUltraLight.eot');  
+  src: local('HelveticaNeueUltraLight.otf'),                 
+        url('HelveticaNeueUltraLight.ttf') format('truetype'), 
+        url('HelveticaNeueUltraLight.svg#font') format('svg'); 
+}
+
+}
+p {
+font-size: 3em
+}
+h4,h3,h5,h2,h1 {
+font-size: 2em
+}
+a {
+font-size:2em
+}
+p,h2,h3,h4,h5,h6,a,h1 {
+font-family: 'HelveticaNeueUltraLight', serif;
+}
+#intestazionebenvenuti{
+    
+    text-align: center
+}
+.coloreciano{
+    
+    color: darkcyan
+    
+}
+.contattaci{
+    
+    text-align: center
+
+}
+.aligndelfooter{
+    
+    text-align: center
+    
+}
+
+#medicinam2, #selezionacat, #scienzeem2, #socistruzionem2, {
+    
+    text-align: center;
+        color: darkcyan
+                    
+}
+#tuttoilmain2{
+    
+    text-align: center
+    
+}
